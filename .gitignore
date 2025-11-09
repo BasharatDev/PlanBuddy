@@ -1,5 +1,5 @@
 # Ignore node_modules
-PlanBuddyBackedn/node_modules/
+PlanBuddyBackend/node_modules/
 PlanBuddyFrontend/node_modules/
 
 # Ignore logs
