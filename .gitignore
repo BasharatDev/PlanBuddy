@@ -1,0 +1,14 @@
+# Ignore node_modules
+PlanBuddyBackend/node_modules/
+PlanBuddyFrontend/node_modules/
+
+# Ignore logs
+logs
+*.log
+npm-debug.log*
+
+# Environment files
+.env
+
+# OS / IDE files
+.DS_Store
